@@ -13,4 +13,4 @@ These are my personal notes on setting up [Free PBX](https://www.freepbx.org/) t
 
 ## Other resources
 
-See the links file here ./LINKS.md
+See the links file here [Links File](LINKS.md)
